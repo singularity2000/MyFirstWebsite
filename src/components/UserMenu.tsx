@@ -826,11 +826,7 @@ export const UserMenu: React.FC = () => {
               </div>
             </label>
           </div>
-<<<<<<< HEAD
 
-          
-=======
->>>>>>> upstream/main
         </div>
 
         {/* 底部说明 */}
